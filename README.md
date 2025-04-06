@@ -1,5 +1,6 @@
 project
 A new Flutter project.
+this project will work on 3.27.1 version.
 
 Getting Started
 This project is a starting point for a Flutter application.
